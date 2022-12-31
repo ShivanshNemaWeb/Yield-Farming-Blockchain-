@@ -1,0 +1,16 @@
+.main{
+    /* From https://css.glass */
+    margin-top: 5%;
+    height: 350px;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+background: rgba(28, 40, 160, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(28, 40, 160, 0.3);
+}
